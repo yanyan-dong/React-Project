@@ -1,8 +1,3 @@
-This project is an example of a personal website based on the react framework and was done during my study of react.
-
-((Modern React)[https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d])
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
